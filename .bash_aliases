@@ -1,7 +1,7 @@
 # Git aliases
 alias g='git status'
 alias gs='git status'
-alias gl='git l'
+alias gl='git log'
 alias ga='git add'
 alias gaa='git add .'
 alias gco='git checkout'
