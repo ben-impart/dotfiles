@@ -9,3 +9,6 @@ alias gb='git branch'
 alias gc='git commit'
 alias gd='git diff'
 alias gds='git diff --staged'
+
+# Other
+alias nr="npm run"
